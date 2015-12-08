@@ -1,8 +1,20 @@
-logs
-target
+# general
+*.log
+*.tmp
+*.bak
+*.lock
+.DS_Store
+
+# IDEA
 /.idea
 /.idea_modules
 /.classpath
 /.project
 /.settings
+
+# Play
+logs
+target
 /RUNNING_PID
+.sbtserver
+project/.sbtserver
