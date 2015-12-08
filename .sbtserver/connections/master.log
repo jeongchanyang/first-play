@@ -1,7 +1,1 @@
-New log file opened at Tue Dec 08 18:23:29 JST 2015 by 45227@mogura.local
-Taking next connection to: 57465
-New client attempting to connect on port: 57466-57465
-  Address = /192.168.102.9:57465
-This client on port 57466 has uuid 924b2006-a6d9-4b53-81fe-fe697fa0e8eb configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-924b2006-a6d9-4b53-81fe-fe697fa0e8eb
-Taking next connection to: 57465
+New log file opened at Tue Dec 08 23:41:37 JST 2015 by 48058@mogura.local
