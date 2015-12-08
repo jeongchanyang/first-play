@@ -1,4 +1,5 @@
-@(products: Collection[String]) 
-<h3>@products.mkString(",")</h3> 
-@import tags._
+@(products: Collection[String])
+@import tags._ 
+@import common._
+@mainLayout(title = "Mogura Products") 
 @productsIterator(products) 
