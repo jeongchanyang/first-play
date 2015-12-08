@@ -1,0 +1,5 @@
+New log file opened at Wed Dec 09 00:15:39 JST 2015 by 61266@mogura.local
+Sending msg to client play-fork-run-1ad86787-a9f8-4c30-9e7c-d14559590daf: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /Users/ann/Documents/Programming/Java/play-workspace/first-play/.sbtserver/connections/master.log))
+Sending msg to client play-fork-run-1ad86787-a9f8-4c30-9e7c-d14559590daf: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /Users/ann/Documents/Programming/Java/play-workspace/first-play/.sbtserver/connections/play-fork-run-1ad86787-a9f8-4c30-9e7c-d14559590daf.log))
+Reading next message from client.
+Sending msg to client play-fork-run-1ad86787-a9f8-4c30-9e7c-d14559590daf: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /Users/ann/Documents/Programming/Java/play-workspace/first-play/.sbtserver/master.log))
