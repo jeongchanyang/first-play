@@ -1,7 +1,28 @@
-New log file opened at Tue Dec 08 23:41:37 JST 2015 by 48058@mogura.local
-Taking next connection to: 59265
-New client attempting to connect on port: 59266-59265
-  Address = /192.168.0.13:59265
-This client on port 59266 has uuid 67cd9963-5036-4e7e-9f48-914aaea7a1eb configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-67cd9963-5036-4e7e-9f48-914aaea7a1eb
-Taking next connection to: 59265
+New log file opened at Wed Dec 09 00:15:36 JST 2015 by 61266@mogura.local
+Taking next connection to: 59450
+New client attempting to connect on port: 59451-59450
+  Address = /192.168.0.13:59450
+This client on port 59451 has uuid 1ad86787-a9f8-4c30-9e7c-d14559590daf configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-1ad86787-a9f8-4c30-9e7c-d14559590daf
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59450
