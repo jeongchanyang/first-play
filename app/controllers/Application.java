@@ -29,4 +29,6 @@ public class Application extends Controller {
     public Result listProducts() {
         return ok(products.render(productMap.values()));
     }
+    public Result listProductsAsXML(){return ok(views.xml.products.render(productMap));}
+    public Result listProductsAsTXT(){return ok(views.txt.products.render(productMap));}
 }
