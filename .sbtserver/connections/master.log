@@ -1,7 +1,31 @@
-New log file opened at Wed Dec 09 00:50:44 JST 2015 by 66581@mogura.local
-Taking next connection to: 59691
-New client attempting to connect on port: 59692-59691
-  Address = /192.168.0.13:59691
-This client on port 59692 has uuid e7b431cd-b24e-432b-ab86-016affaf1d9f configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-e7b431cd-b24e-432b-ab86-016affaf1d9f
-Taking next connection to: 59691
+New log file opened at Wed Dec 09 00:53:52 JST 2015 by 67169@mogura.local
+Taking next connection to: 59714
+New client attempting to connect on port: 59715-59714
+  Address = /192.168.0.13:59714
+This client on port 59715 has uuid 2d362b50-52b3-4780-a70b-1ea34b9148ec configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-2d362b50-52b3-4780-a70b-1ea34b9148ec
+Taking next connection to: 59714
+New client attempting to connect on port: 59782-59714
+  Address = /192.168.0.13:59714
+Handshake exception on socket: 59782
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 59714
+New client attempting to connect on port: 59783-59714
+  Address = /192.168.0.13:59714
+This client on port 59783 has uuid 44eff8ee-c832-4c43-86bd-8144281b70e0 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-44eff8ee-c832-4c43-86bd-8144281b70e0
+Taking next connection to: 59714
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 67169@mogura.local logs at Wed Dec 09 11:12:16 JST 2015, goodbye.
