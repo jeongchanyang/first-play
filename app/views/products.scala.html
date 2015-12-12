@@ -1,8 +1,9 @@
 @(products: Collection[String])
 @import tags._
 @import common._
-@mainLayout(title = "Mogura")
-@productsIterator(products)
+@mainLayout(title = "Mogura") {
+    @productsIterator(products)
+}
 
 
 
